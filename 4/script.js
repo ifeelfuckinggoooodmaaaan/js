@@ -51,4 +51,4 @@ switch (transportType) {
 
 let totalCost = basePrice + weightPrice + cargoPrice + transportPrice;
 
-alert('Стоимость доставки: ${totalCost} руб.');
+alert('Стоимость доставки: ${totalCost} rub.');
